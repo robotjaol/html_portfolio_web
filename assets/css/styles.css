@@ -485,7 +485,7 @@ aside a {
   transition: background 200ms ease-out, font-weight 200ms ease-out;
 }
 
-article {
+aside div {
   text-align: center;
 }
 
